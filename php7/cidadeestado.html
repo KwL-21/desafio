@@ -1,0 +1,25 @@
+<html>
+
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <script type="text/javascript" src="js/cidades-estados-v0.2.js"></script> 
+        <script type="text/javascript">
+            window.onload = function () {
+                new dgCidadesEstados(
+                        document.getElementById('estado'),
+                        document.getElementById('cidade'),
+                        true
+                        );
+            }
+        </script>
+    </head>
+    <body>
+        <form>
+            <fieldset>
+                <label>Estado</label>:<select id="estado" name="estado"></select> 
+                <label>Cidade</label>:<select id="cidade" name="cidade"></select> 
+            </fieldset>
+        </form>
+    </body>
+
+</html>

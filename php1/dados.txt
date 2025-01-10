@@ -1,0 +1,24 @@
+Dados do Aluno - Cadastro feito em: 08/11/2022 as 10:06:27
+Nome: jose
+E-mail: jose@jose.jose.js
+Telefone: 21999999999
+----------------------------
+
+Dados do Aluno - Cadastro feito em: 08/11/2022 as 10:11:07
+Nome: jose
+E-mail: jose@jose.jose.js
+Telefone: 21999999999
+----------------------------
+
+Dados do Aluno - Cadastro feito em: 08/11/2022 as 10:21:45
+Nome: jose
+E-mail: jose@jose.jose.js
+Telefone: 21999999999
+----------------------------
+
+Dados do Aluno - Cadastro feito em: 08/11/2022 as 10:27:54
+Nome: jose
+E-mail: jose@jose.jose.js
+Telefone: 21999999999
+----------------------------
+
